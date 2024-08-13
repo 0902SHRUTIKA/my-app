@@ -1,0 +1,23 @@
+/* components/Footer.module.css */
+.footer {
+    background: #003399;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 2px solid #002a72;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  

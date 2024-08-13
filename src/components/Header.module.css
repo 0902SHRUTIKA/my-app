@@ -1,0 +1,36 @@
+/* components/Header.module.css */
+.header {
+    background: #003399;
+    color: white;
+    padding: 10px 0;
+    border-bottom: 2px solid #002a72;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .h1{
+    align-items: center;
+  }
